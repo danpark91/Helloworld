@@ -6,7 +6,7 @@
 * 
 *  Name: ____Daniel Park____________ Student ID: __174136218__ Date: __Sept 16, 2022____
 *
-*  Cyclic Web App URL: ___Cyclic - danpark91-express-hello-world____________
+*  Cyclic Web App URL: ___https://app.cyclic.sh/#/deploy/danpark91/helloworld____________
 *
 *  GitHub Repository URL: ____danpark91/helloworld (github.com)_________________
 *
